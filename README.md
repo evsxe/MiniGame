@@ -6,5 +6,5 @@ The game is designed to teach the Swift language and to replicate some of the fe
 ![](https://github.com/evsxe/MiniGame/blob/main/Photo/StartScreen.png?raw=true)
 ![](https://github.com/evsxe/MiniGame/blob/main/Photo/GameScreen.png?raw=true)
 ![](https://github.com/evsxe/MiniGame/blob/main/Photo/GameTwo.png?raw=true)
-![](https://github.com/evsxe/MiniGame/blob/main/Photo/GameTwo.png?raw=true)
+![](https://github.com/evsxe/MiniGame/blob/main/Photo/FinalScreen.png?raw=true)
 
